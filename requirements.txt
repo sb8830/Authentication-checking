@@ -1,8 +1,8 @@
+
 streamlit
 pandas
 openpyxl
-smtplib
-email-validator
 streamlit-quill
 plotly
 streamlit-authenticator
+email-validator
